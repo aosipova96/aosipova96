@@ -1,16 +1,18 @@
-### Hi there 👋
+# Привет👋 Меня зовут Аня и я начинающий аналитик данных😏
 
-<!--
-**aosipova96/aosipova96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Закончила обучение в Yandex.Practirum и сейчас в поиске своей первой крутой работы. 
 
-Here are some ideas to get you started:
+# Инструменты и навыки
+Языки:
+* Python
+* SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Библиотеки и инструменты:
+* pandas
+* matplotlib
+* seaborn
+* plotly
+* scipy
+* re
+* numpy
+
